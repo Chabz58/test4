@@ -12,6 +12,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
           Mobile Application Development
+          added more text for testing
         </p>
       </div>
     );
